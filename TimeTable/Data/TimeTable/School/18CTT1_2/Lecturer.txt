@@ -1,0 +1,5 @@
+CS162 Introduction-to-Computer-Science-II Dr.Dinh-Ba-Tien MSc.Ho-Tuan-Thanh,Truong-Phuoc-Loc, None dbtien@fit.hcmus.edu.vn,htthanh@fit.hcmus.edu.vn,tploc@fit.hcmus.edu.vn,
+MTH252 Calculus-II Prof.Nguyen-Huu-Anh Msc.Nguyen-Huu-Tri-Nhat, None huuanh45@gmail.com,nhatnhtri2005@yahoo.com,
+PH212 General-Physics-II Dr.Nguyen-Huu-Nha Msc.Nguyen-Ngoc-Truong, None nhnha@hcmus.edu.vn,nntruong@hcmus.edu.vn,
+CTH001 Fundamental-principles-of-Marxism-and-Leninism Dr.Nguyen-Ngoc-Thu None, None chieuha@ueh.edu.vn,
+TC001 Physical-Education Dr.Nguyen-Van-Hung None, None nguyenhung56@yahoo.com,

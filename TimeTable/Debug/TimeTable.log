@@ -1,0 +1,18 @@
+﻿  data_timetable.cpp
+c:\users\lahoa\google drive\myapp\timetable\timetable\data_timetable.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lahoa\google drive\myapp\timetable\timetable\data_timetable.cpp(6): warning C4018: '<': signed/unsigned mismatch
+  demo.cpp
+c:\users\lahoa\google drive\myapp\timetable\timetable\data_timetable.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  helper.cpp
+c:\users\lahoa\google drive\myapp\timetable\timetable\helper.cpp(7): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  schooltimetable.cpp
+c:\users\lahoa\google drive\myapp\timetable\timetable\data_timetable.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\lahoa\google drive\myapp\timetable\timetable\schooltimetable.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TimeTable.vcxproj -> C:\Users\lahoa\Google Drive\MyApp\TimeTable\Debug\TimeTable.exe
